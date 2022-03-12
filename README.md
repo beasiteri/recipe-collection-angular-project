@@ -1,5 +1,8 @@
 # RecipeCollectionAngularProject
 
+This Angular project based on this course:
+https://www.udemy.com/share/101WAU3@qHZcvAwaPQ7S_LiTTnoiw_X7yXcFxU--5kOTOg-VqxML9cKiQ2uOhWd3FB4xCND1/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
 ## Development server
